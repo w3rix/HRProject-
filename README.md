@@ -132,7 +132,7 @@ This is still a work in progress. The core authentication functionality is worki
 
 ## 📬 Contact
 
-Developed by [@mericcode](https://github.com/mericcode) — feel free to contribute or raise issues!
+Developed by Meriç Cengiz [@w3rix](https://github.com/mericcode)! All rights reserved!
 
 ---
 
